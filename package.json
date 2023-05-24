@@ -1,0 +1,15 @@
+{
+  "name": "dora-bot",
+  "version": "1.0.0",
+  "description": "bot da dora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Neves",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "moment": "^2.29.4"
+  }
+}
